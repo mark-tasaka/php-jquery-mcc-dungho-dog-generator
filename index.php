@@ -57,7 +57,7 @@
             <span class="formIputDescriptionIconic">Archaic Alignment:</span>	
 			  <select id="archaicAlignment" name="theArchaicAlignment" class="alignmentBoxIconic">			
                 <option value="The Clan of the Cog" selected>The Clan of the Cog</option>
-				<option value="The Curators">The Curators</option>
+				<option value="Chosen of Zuu">Chosen of Zuu</option>
 			  </select>
             
             <br/>
